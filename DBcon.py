@@ -20,3 +20,7 @@ Trust_Connection=YES
 
 conn = odbc.connect(connection_string)
 print(conn)
+
+
+#https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line
+#https://www.alphr.com/pip-is-not-recognized-as-an-internal-or-external-command/#:~:text=reinstall%20Python%203.9.-,'Pip'%20Is%20Not%20Recognized%20as%20an%20Internal%20or%20External%20Command,via%20the%20Python%20executable%20installer.
